@@ -14,7 +14,7 @@
 
  🎮 Love gaming, developing 2D games, and working on side projects
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 # Frontend
 JavaScript | 
 Html5 | 
