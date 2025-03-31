@@ -29,7 +29,7 @@
 
 # 📌 Projects
 
-- 🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores color="blue"
+- 🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores
 
 - ✅ To-Do App – A sleek and minimalistic to-do list built with React
 
