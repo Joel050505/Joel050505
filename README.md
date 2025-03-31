@@ -34,7 +34,7 @@
 - ✅ **To-Do App – A sleek and minimalistic to-do list built with React**
 
 - 🐱‍🐉 **Dragon eats rabbit game - A snake like inspired game with a score system, highscore system, coin collecting system and a character mechanic where you can buy and unlock new characters**
-- **To-do App - with vanilla javascript, css and html. Using localestorage to store the todos**
+- **To-Do App - with vanilla javascript, css and html. Using localestorage to store the todos**
 
 📫 **Let's Connect!**
 
