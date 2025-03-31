@@ -1,4 +1,4 @@
-<h1 color="red" >Hi there! 👋 I'm Joel</h1>
+<h1>Hi there! 👋 I'm Joel</h1>
 
  🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
 
