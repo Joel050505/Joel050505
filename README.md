@@ -23,9 +23,9 @@
  - React
  - Nextjs
 - Backend
- - Nodejs 
- - Mysql 
- - Express
+   - Nodejs 
+   - Mysql 
+   - Express
 
 # 📌 Projects
 
