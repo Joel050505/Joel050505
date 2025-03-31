@@ -2,7 +2,7 @@
 
 ## 🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
 
-🔥 About Me
+# 🔥 About Me
 
 👨‍💻 Passionate about building interactive and user-friendly web applications
 
@@ -10,9 +10,9 @@
 
 ⚡ Currently exploring Svelte & Kotlin for Minecraft Modding
 
-📅 Preparing for a frontend development internship in 5-6 months
+# 📅 Preparing for a frontend development internship in 5-6 months
 
-🎮 Love gaming, developing 2D games, and working on side projects
+# 🎮 Love gaming, developing 2D games, and working on side projects
 
 🛠️ Tech Stack
 
