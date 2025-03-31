@@ -12,15 +12,20 @@
 
 📅 Preparing for a frontend development internship in 5-6 months
 
-# 🎮 Love gaming, developing 2D games, and working on side projects
+ 🎮 Love gaming, developing 2D games, and working on side projects
 
-🛠️ Tech Stack
-
-
-
-
-
-
+## 🛠️ Tech Stack
+# Frontend
+JavaScript
+Html5
+CSS
+TailwindCSS
+React
+Nextjs
+#Backend
+Nodejs
+Mysql
+Express
 
 # 📌 Projects
 
