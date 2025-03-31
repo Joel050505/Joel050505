@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Joel050505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! 👋 I'm Joel
 
-<!---
-Joel050505/Joel050505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
+
+🔥 About Me
+
+👨‍💻 Passionate about building interactive and user-friendly web applications
+
+🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, and Framer Motion
+
+⚡ Currently exploring Svelte & Kotlin for Minecraft Modding
+
+📅 Preparing for a frontend development internship in 5-6 months
+
+🎮 Love gaming, developing 2D games, and working on side projects
+
+🛠️ Tech Stack
+
+
+
+
+
+
+
+📌 Projects
+
+🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores
+
+✅ To-Do App – A sleek and minimalistic to-do list built with React
+
+🌍 Queue System App – A concept for an app that allows users to join queues remotely
+
+📫 Let's Connect!
+
+
+
+🚀 Always open to new opportunities and collaborations!
