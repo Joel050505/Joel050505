@@ -19,11 +19,11 @@
    - JavaScript
    - Html5
    - CSS 
-   - TailwindCSS
+   - ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    - React
    - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - **Backend**
-   - Nodejs 
+   - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    - Mysql 
    - Express
 
