@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Joel
+<h1>Hi there! 👋 I'm Joel</h1>
 
  🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
 
