@@ -15,14 +15,14 @@
 - 🎮 Love gaming, developing 2D games, and working on side projects
 
 # 🛠️ Tech Stack
-- * Frontend *
+- **Frontend**
    - JavaScript
    - Html5
    - CSS 
    - TailwindCSS
    - React
    - Nextjs
-- ** Backend **
+- **Backend**
    - Nodejs 
    - Mysql 
    - Express
@@ -33,7 +33,7 @@
 
 - ✅ To-Do App – A sleek and minimalistic to-do list built with React
 
-📫 Let's Connect!
+📫 **Let's Connect!**
 
 
 
