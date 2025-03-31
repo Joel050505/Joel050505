@@ -28,8 +28,6 @@
 
 ✅ To-Do App – A sleek and minimalistic to-do list built with React
 
-🌍 Queue System App – A concept for an app that allows users to join queues remotely
-
 📫 Let's Connect!
 
 
