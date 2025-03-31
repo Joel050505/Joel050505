@@ -8,7 +8,7 @@
 
 🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, and Framer Motion
 
-⚡ Currently exploring Svelte & Kotlin for Minecraft Modding
+⚡ Currently exploring Svelte & Kotlin for Minecraft Modding a little bit
 
 📅 Preparing for a frontend development internship in 5-6 months
 
