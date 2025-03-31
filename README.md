@@ -21,11 +21,11 @@ Html5 |
 CSS | 
 TailwindCSS | 
 React |  
-Nextjs|  
+Nextjs
 # Backend|  
 Nodejs | 
 Mysql | 
-Express | 
+Express
 
 # 📌 Projects
 
