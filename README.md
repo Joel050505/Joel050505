@@ -15,17 +15,17 @@
 - 🎮 Love gaming, developing 2D games, and working on side projects
 
 # 🛠️ Tech Stack
-# Frontend
-- JavaScript
-- Html5
-- CSS 
-- TailwindCSS
-- React
-- Nextjs
-# Backend
-- Nodejs 
-- Mysql 
-- Express
+- Frontend
+ - JavaScript
+ - Html5
+ - CSS 
+ - TailwindCSS
+ - React
+ - Nextjs
+- Backend
+ - Nodejs 
+ - Mysql 
+ - Express
 
 # 📌 Projects
 
