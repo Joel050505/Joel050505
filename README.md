@@ -22,7 +22,7 @@
 
 
 
-📌 Projects
+# 📌 Projects
 
 🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores
 
