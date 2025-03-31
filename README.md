@@ -6,7 +6,7 @@
 
 - 👨‍💻 Passionate about building interactive and user-friendly web applications
 
-- 🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, and Framer Motion
+- 🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, and a touch of Framer Motion
 
 - ⚡ Currently exploring Svelte & Kotlin for Minecraft Modding a little bit
 
@@ -33,7 +33,7 @@
 
 - ✅ To-Do App – A sleek and minimalistic to-do list built with React
 
-- 
+- Dragon eats rabbit game - A snake like inspired game with a coins score system, highscore system,  
 
 📫 **Let's Connect!**
 
