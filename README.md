@@ -16,16 +16,16 @@
 
 ## 🛠️ Tech Stack
 # Frontend
-JavaScript
-Html5
-CSS
-TailwindCSS
-React
-Nextjs
-#Backend
-Nodejs
-Mysql
-Express
+JavaScript | 
+Html5 | 
+CSS | 
+TailwindCSS | 
+React |  
+Nextjs|  
+# Backend|  
+Nodejs | 
+Mysql | 
+Express | 
 
 # 📌 Projects
 
