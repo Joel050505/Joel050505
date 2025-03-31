@@ -1,6 +1,6 @@
-Hi there! 👋 I'm Joel
+# Hi there! 👋 I'm Joel
 
-🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
+## 🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Turkish
 
 🔥 About Me
 
