@@ -13,7 +13,6 @@
 - 📅 Preparing for a frontend development internship in 5-6 months
 
 - 🎮 Love gaming, developing 2D games, and working on side projects
-- ![Hover Effect](https://your-gif-link.com/hover-effect.gif)
 
 ## 🛠️ Tech Stack
 - **Frontend**
@@ -33,6 +32,8 @@
 - 🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores
 
 - ✅ To-Do App – A sleek and minimalistic to-do list built with React
+
+- 
 
 📫 **Let's Connect!**
 
