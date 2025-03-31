@@ -29,11 +29,11 @@
 
 # 📌 Projects
 
-- 🎮 My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores
+- 🎮 **My Endless Running Game – A mobile & PC-friendly 2D game with character unlocks and high scores**
 
-- ✅ To-Do App – A sleek and minimalistic to-do list built with React
+- ✅ **To-Do App – A sleek and minimalistic to-do list built with React**
 
-- Dragon eats rabbit game - A snake like inspired game with a coins score system, highscore system,  
+- 🐱‍🐉 **Dragon eats rabbit game - A snake like inspired game with a score system, highscore system, coin collecting system and a character mechanic where you can buy and unlock new characters** 
 
 📫 **Let's Connect!**
 
