@@ -6,7 +6,7 @@
 
 - 👨‍💻 Passionate about building interactive and user-friendly web applications
 
-- 🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, and know a bit of framer motion. I also know a little bit of python.
+- 🎨 Skilled in JavaScript, React, Next.js, HTML, CSS, Typescript and know a bit of framer motion. I also know a little bit of python. I also have som backend competens.
 
 - ⚡ Currently exploring Svelte & Kotlin for Minecraft Modding a little bit
 
