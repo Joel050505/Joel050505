@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 I'm Joel</h1>
 
- 🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Front-end devolpment
+ 🚀 Junior Frontend Developer | 🌍 Based in Sweden | 📚 Learning Front-end devolpment, and a touch of Back-end!
 
 # 🔥 About Me
 
