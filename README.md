@@ -10,7 +10,7 @@
 
 - ⚡ Currently exploring Svelte & Kotlin for Minecraft Modding a little bit
 
-- 📅 Currently having LIA with FoggyMedia, working on chesshotel.
+- 📅 Currently having LIA at FoggyMedia, working on chesshotel.
 
 - 🎮 Love gaming, developing 2D games, and working on side projects
 
